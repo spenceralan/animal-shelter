@@ -1,0 +1,29 @@
+header {
+  color: white;
+  height: 230px;
+  background-image: url("../img/header.jpg");
+}
+
+img {
+  width: 250px;
+}
+
+.buddy {
+  width: 30%;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.buddy h2{
+  text-transform: uppercase;
+}
+
+.buddy h3{
+  font-style: italic;
+}
+
+.buddy p {
+  padding: 10px 50px;
+}
