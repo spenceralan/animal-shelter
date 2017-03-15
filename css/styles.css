@@ -1,19 +1,26 @@
 header {
   color: white;
   height: 230px;
-  background-image: url("../img/header.jpg");
+  background-color: #52D1DC;
+  /*background-image: url("../img/header.jpg");*/
 }
 
 header h1 {
   padding-top: 50px;
-  color: #BBBBBF;
+  color: #475B5A;
   font-size: 250%;
 }
 
 header h2 {
   font-style: bold;
   font-size: 150%;
-  color: white;
+  color: #475B5A;
+}
+
+#adopt {
+  font-size: 300%;
+  font-style: bold;
+  text-transform: lowercase;
 }
 
 body {
@@ -27,6 +34,7 @@ h1, h2, h3 {
 }
 
 img {
+  border: 10px solid #52D1DC;
   width: 230px;
 }
 
@@ -45,6 +53,12 @@ img {
 .buddy p {
   padding: 10px 50px;
   /*line-height:40px;*/
+}
+
+footer p {
+  clear: both;
+  padding-top: 50px;
+  font-size: 125%;
 }
 
 @media screen and (min-width: 900px) {
