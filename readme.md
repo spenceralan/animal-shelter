@@ -1,4 +1,4 @@
-# Portfolio Project - Code Review - Epicodus
+# Build an Animal Shelter Webpage - Epicodus
 
 For this project my team created a webpage for a fictional animal shelter using HTML and CSS. The goal of this project was to demonstrate the use of floats to create a grid or columns and to demonstrate the use of media queries.
 
